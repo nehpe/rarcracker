@@ -1,0 +1,5 @@
+* Clean up code (kind-of hacky ATM)
+* Allow user to set number of threads to use
+* Allow user to set binary to use (currently just uses unrar)
+* Allow user to use a dictionary
+* Allow selection of character set to use (alpha, alpha numeric, numeric, etc.)
