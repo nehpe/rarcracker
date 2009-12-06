@@ -3,3 +3,7 @@
 * Allow user to set binary to use (currently just uses unrar)
 * Allow user to use a dictionary
 * Allow selection of character set to use (alpha, alpha numeric, numeric, etc.)
+* Benchmark against other utilities
+* User interface (?)
+* Write readme
+* More customization options
