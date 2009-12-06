@@ -1,9 +1,21 @@
+Version 0.5
 * Clean up code (kind-of hacky ATM)
-* Allow user to set number of threads to use
-* Allow user to set binary to use (currently just uses unrar)
-* Allow user to use a dictionary
-* Allow selection of character set to use (alpha, alpha numeric, numeric, etc.)
 * Benchmark against other utilities
 * User interface (?)
-* Write readme
+
+Version 0.4
 * More customization options
+* Stability
+
+Version 0.3
+* Write readme
+* Allow user to use a dictionary
+* Allow user to set number of threads to use
+
+Version 0.2
+* Allow selection of character set to use (alpha, alpha numeric, numeric, etc.) [DONE]
+* Allow user to set binary to use (default 'unrar')
+* Allow user to set binary options to use (default 't -p')
+
+Version 0.1
+* Brute Force working
